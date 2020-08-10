@@ -1,0 +1,6 @@
+github.com/legenove/utils v0.0.0-20200724081548-f533644e1822 h1:cYWTuS1sLWT5qUDOtQ49hHHrrilfElGRRxCdgNxMeKs=
+github.com/legenove/utils v0.0.0-20200724081548-f533644e1822/go.mod h1:LU8q6GHxhwMIOe1AEPSASOIEoFla2d7ejICp8bVYuqs=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d h1:VhgPp6v9qf9Agr/56bj7Y/xa04UccTW04VP0Qed4vnQ=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d/go.mod h1:YUTz3bUH2ZwIWBy3CJBeOBEugqcmXREj14T+iG/4k4U=
+github.com/rs/xid v1.2.1 h1:mhH9Nq+C1fY2l1XIpgxIiUOfNpRBYH1kKcr+qfKgjRc=
+github.com/rs/xid v1.2.1/go.mod h1:+uKXf+4Djp6Md1KODXJxgGQPKngRmWyn10oCKFzNHOQ=

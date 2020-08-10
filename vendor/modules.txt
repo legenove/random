@@ -1,0 +1,9 @@
+# github.com/legenove/utils v0.0.0-20200724081548-f533644e1822
+## explicit
+github.com/legenove/utils
+# github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
+## explicit
+github.com/nu7hatch/gouuid
+# github.com/rs/xid v1.2.1
+## explicit
+github.com/rs/xid
