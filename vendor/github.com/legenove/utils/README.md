@@ -1,2 +1,0 @@
-# utils
-golang common functions
